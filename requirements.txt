@@ -4,4 +4,4 @@ pandas
 numpy
 xlrd
 openpyxl
-steamlit
+streamlit
